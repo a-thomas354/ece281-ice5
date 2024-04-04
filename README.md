@@ -5,7 +5,7 @@ VHDL for ECE 281 [ICE 5](https://usafa-ece.github.io/ece281-book/ICE/ICE5.html)
 Targeted toward Digilent Basys3. Make sure to install the [board files](https://github.com/Xilinx/XilinxBoardStore/tree/2018.2/boards/Digilent/basys3).
 
 Tested on Windows 11.
-![waveform for ICE5](Screenshot(82).png)
+![waveform for ICE5](Screenshot (82).png)
 ---
 
 ## Build the project
